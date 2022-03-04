@@ -1,0 +1,36 @@
+h1 {
+	color: red;
+	font-size: 50px
+}
+.new {
+	border: 2px solid blue;
+	background: blue;
+	width: 100px;
+	height: 100spx;
+	color: white;
+	margin-bottom: 100px;
+}
+span {
+	color: red;
+}
+.list {
+	background: green;
+	color: white;
+}
+.two {
+	background: green;
+	padding: 50px;
+
+}
+h2 {
+	color: white;
+	background: green;
+}
+.three {
+	background: white;
+
+	margin-left: 100px;
+}
+li {
+	border: 1px solid black;
+}
